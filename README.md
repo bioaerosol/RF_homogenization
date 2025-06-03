@@ -29,7 +29,7 @@ Detailed description is of each step is available in the pdf manual.
 [Homogenization_toolkit_manual1.0.pdf](https://github.com/user-attachments/files/20573617/Homogenization_toolkit_manual1.0.pdf)
 
 # Data collection 
-Data collection is specific to the participating institutes and is not detailed here, the manual contains data sources.
+Data collection is specific to the participating institutes and is not detailed here, the manual contains data sources. The repository only contains the scripts to download Poleno data.
 
 # Season selection
 2.1_SPIn_filter_generator.py  creates a json file with filters to select the pollen season for each station, species and year.
